@@ -2049,12 +2049,6 @@
           },
           {
             "type": "link",
-            "title": "CSDN - 专业开发者社区",
-            "icon": "https://logo.clearbit.com/www.csdn.net",
-            "url": "https://www.csdn.net/"
-          },
-          {
-            "type": "link",
             "addDate": 1670310594212,
             "title": "Stack Overflow",
             "icon": "https://logo.clearbit.com/stackoverflow.com",
@@ -2101,6 +2095,12 @@
             "title": "廖雪峰的官方网站",
             "icon": "https://logo.clearbit.com/www.liaoxuefeng.com",
             "url": "https://www.liaoxuefeng.com/"
+          },
+          {
+            "type": "link",
+            "title": "CSDN - 专业开发者社区",
+            "icon": "https://logo.clearbit.com/www.csdn.net",
+            "url": "https://www.csdn.net/"
           },
           {
             "type": "link",
@@ -2262,6 +2262,13 @@
             "title": "代码片段",
             "icon": "https://logo.clearbit.com/gist.github.com",
             "url": "https://gist.github.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727583741897,
+            "title": "鸟窝",
+            "icon": "https://logo.clearbit.com/colobu.com",
+            "url": "https://colobu.com/"
           }
         ]
       },
@@ -2822,6 +2829,20 @@
             "title": "极简博客",
             "icon": "https://logo.clearbit.com/console.mblog.club",
             "url": "https://console.mblog.club/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727457444671,
+            "title": "应用图标",
+            "icon": "https://logo.clearbit.com/app.uiboy.com",
+            "url": "https://app.uiboy.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728023872457,
+            "title": "开源软件镜像集合网站",
+            "icon": "https://logo.clearbit.com/help.mirrorz.org",
+            "url": "https://help.mirrorz.org/"
           }
         ]
       },
@@ -3669,6 +3690,13 @@
             "title": "Rust 程序设计语言 简体中文版",
             "icon": "https://logo.clearbit.com/kaisery.github.io",
             "url": "https://kaisery.github.io/trpl-zh-cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727584472165,
+            "title": "100个练习题学习Rust",
+            "icon": "https://logo.clearbit.com/colobu.com",
+            "url": "https://colobu.com/rust100/01_intro/00_welcome.html"
           }
         ]
       },
