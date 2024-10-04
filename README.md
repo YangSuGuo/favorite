@@ -1,6 +1,4 @@
-# Pintree
-
-[English](README.md) | [中文](README.zh.md)
+# Pintree-楊蘇國的书签仓库
 
 Pintree 是一个开源项目，旨在将浏览器书签导出成导航网站。通过简单的几步操作，就可以将书签转换成一个美观且易用的导航页面。
 
@@ -16,7 +14,9 @@ Pintree 是一个开源项目，旨在将浏览器书签导出成导航网站。
 
 ### 步骤 1：下载浏览器书签
 
-1. 安装 [Pintree Bookmarks Exporter](https://chromewebstore.google.com/detail/pintree-bookmarks-exporte/mjcglnkikjidokobpfdcdmcnfdicojce) 插件。
+1.
+安装 [Pintree Bookmarks Exporter](https://chromewebstore.google.com/detail/pintree-bookmarks-exporte/mjcglnkikjidokobpfdcdmcnfdicojce)
+插件。
 2. 使用插件导出浏览器书签，并保存 JSON 文件到本地。
 
 ![](https://github.com/Pintree-io/pintree/blob/main/assets/guide/step1.png)
@@ -47,8 +47,4 @@ Pintree 是一个开源项目，旨在将浏览器书签导出成导航网站。
 ![](https://github.com/Pintree-io/pintree/blob/main/assets/guide/step4.png)
 
 ---
-
-通过以上步骤，您已经成功完成了 Pintree 项目的安装和运行。如果有任何问题，可以加群获取更多帮助，也可以添加我的微信: ```Gift_wei``` 我拉你进交流群
-
-![](https://github.com/Pintree-io/pintree/blob/main/assets/wechat_group.png)
-感谢使用和支持！
+通过以上步骤，您已经成功完成了 Pintree 项目的安装和运行
