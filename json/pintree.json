@@ -352,6 +352,13 @@
             "title": "动画巡礼 ",
             "icon": "https://logo.clearbit.com/anitabi.cn",
             "url": "https://anitabi.cn/bangumi"
+          },
+          {
+            "type": "link",
+            "addDate": 1728362905801,
+            "title": "蜜柑计划",
+            "icon": "https://logo.clearbit.com/mikan.yujiangqaq.com",
+            "url": "https://mikan.yujiangqaq.com/"
           }
         ]
       },
@@ -1505,13 +1512,6 @@
           },
           {
             "type": "link",
-            "addDate": 1670343101749,
-            "title": "Canva可画",
-            "icon": "https://logo.clearbit.com/www.canva.cn",
-            "url": "https://www.canva.cn/"
-          },
-          {
-            "type": "link",
             "addDate": 1644973814584,
             "title": "(89) Inoreader - 全部文章",
             "icon": "https://logo.clearbit.com/www.innoreader.com",
@@ -1991,6 +1991,13 @@
             "title": "LM Studio - 发现、下载和运行本地 LLM",
             "icon": "https://logo.clearbit.com/lmstudio.ai",
             "url": "https://lmstudio.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729250302826,
+            "title": "Chat100.ai",
+            "icon": "https://logo.clearbit.com/chat100.ai",
+            "url": "https://chat100.ai/zh-CN/app"
           }
         ]
       },
@@ -2025,6 +2032,13 @@
             "title": "阮一峰的个人网站",
             "icon": "https://logo.clearbit.com/www.ruanyifeng.com",
             "url": "http://www.ruanyifeng.com/home.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1729225708355,
+            "title": "长毛象中文站",
+            "icon": "https://logo.clearbit.com/m.cmx.im",
+            "url": "https://m.cmx.im/home"
           },
           {
             "type": "link",
@@ -2277,6 +2291,13 @@
         "addDate": 1697519239100,
         "title": "工具",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1670343101749,
+            "title": "Canva可画",
+            "icon": "https://logo.clearbit.com/www.canva.cn",
+            "url": "https://www.canva.cn/"
+          },
           {
             "type": "link",
             "addDate": 1679887699720,
@@ -2720,13 +2741,6 @@
           },
           {
             "type": "link",
-            "addDate": 1721139691022,
-            "title": "CoolApk World | 酷安",
-            "icon": "https://logo.clearbit.com/web.telegram.org",
-            "url": "https://web.telegram.org/a/#-1001247493529"
-          },
-          {
-            "type": "link",
             "addDate": 1721142919294,
             "title": "有道翻译",
             "icon": "https://logo.clearbit.com/fanyi.youdao.com",
@@ -2843,6 +2857,34 @@
             "title": "开源软件镜像集合网站",
             "icon": "https://logo.clearbit.com/help.mirrorz.org",
             "url": "https://help.mirrorz.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728278966297,
+            "title": "一言开发者中心 | 用代码表达言语的魅力，用代码书写山河的壮丽。",
+            "icon": "https://logo.clearbit.com/developer.hitokoto.cn",
+            "url": "https://developer.hitokoto.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729227949716,
+            "title": "Awwwards - 网站奖 - 最佳网页设计趋势",
+            "icon": "https://logo.clearbit.com/www.awwwards.com",
+            "url": "https://www.awwwards.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729228192795,
+            "title": "The FWA - Awards",
+            "icon": "https://logo.clearbit.com/thefwa.com",
+            "url": "https://thefwa.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729564838142,
+            "title": "Shots图片分享卡片",
+            "icon": "https://logo.clearbit.com/shots.so",
+            "url": "https://shots.so/"
           }
         ]
       },
@@ -3697,6 +3739,13 @@
             "title": "100个练习题学习Rust",
             "icon": "https://logo.clearbit.com/colobu.com",
             "url": "https://colobu.com/rust100/01_intro/00_welcome.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1729237209916,
+            "title": "Bun中文文档",
+            "icon": "https://logo.clearbit.com/www.bunjs.cn",
+            "url": "https://www.bunjs.cn/"
           }
         ]
       },
